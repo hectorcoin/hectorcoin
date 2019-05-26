@@ -1,0 +1,34 @@
+src/*.exe
+src/hectorcoin
+src/hectorcoind
+src/test_hectorcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.hectorcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+hectorcoin-qt
+Hectorcoin-Qt.app
+
+# Unit-tests
+Makefile.test
+hectorcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile

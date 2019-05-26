@@ -1,0 +1,9 @@
+Building Hectorcoin
+
+See doc/readme-qt.rst for instructions on building Hectorcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Hectorcoin.
+
+See doc/build-*.txt for instructions on building hectorcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Hectorcoin.
