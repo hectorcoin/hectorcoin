@@ -27,3 +27,4 @@ information or see http://opensource.org/licenses/MIT.
 
 
 
+# hectorcoin
